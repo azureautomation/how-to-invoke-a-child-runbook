@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 1523,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/how-to-invoke-a-child-runbook/master/Invoke-ChildRunbookSample.ps1",
+    "DownloadCount": 2299,
+    "Id": "How-to-Invoke-a-Child-55dd305d",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 263,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-3-31T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook starts a child runbook synchronously.",
+    "Title": "How to Invoke a Child Runbook",
+    "UpdatedDate": "2014-4-1T00:00:00",
+    "Url": "https://github.com/azureautomation/how-to-invoke-a-child-runbook",
+    "UserTags": "Tutorial"
+}
